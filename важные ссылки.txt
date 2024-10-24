@@ -1,0 +1,3 @@
+ ‘сылка на Streamlit приложение: http://5.253.62.232:8501/
+ ‘сылка на Telegram бота: https://t.me/Sber_ai_case_bot
+ ‘сылка на GitHub репозиторий: https://github.com/normaldaki278/AI_Ch_stock_prediction-
