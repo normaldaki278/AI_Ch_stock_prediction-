@@ -12,8 +12,9 @@
   - `news_dataset_for_gigachat.csv` - Датасет для работы с GigaChat. Новости с тегами для подачи в RAG, потом в модель.
 
 - **`gigachat_interpretation/`** — Папка с кодом для интерпретации новостей от GigaChat:
-  - `rag.ipynb` — Ноутбук с функциями RAG для бота
   - `gigachat_response.ipynb` — Ноутбук с функциями ответа GigaChat для бота
+  - `rag.ipynb` — Ноутбук с функциями RAG для бота
+  - `rag_analyse_and_tests.ipynb` - ноутбук с тестом разметок Rag и анализом как работает
   - `parser.ipynb` - Ноутбук с парсером новостей с тегами
 
 - **`news_analysis/`** — Папка с кодом для анализа новостей:
