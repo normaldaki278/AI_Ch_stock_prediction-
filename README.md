@@ -46,7 +46,8 @@
 # Архитектура Поиска релевантных новостей:
 ![image](https://github.com/user-attachments/assets/cc7e287c-5e85-409d-b442-d2159f203a4f)
 # Архитектура интеграции GigaChat
-![image](https://github.com/user-attachments/assets/a5fa4d2b-3645-449b-b751-a40524d10828)
+![image](https://github.com/user-attachments/assets/aca834b1-dc44-45b8-8760-af62cb60aeaa)
+
 
 
 
